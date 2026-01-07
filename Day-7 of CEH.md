@@ -14,6 +14,7 @@
   <center>
   <img src="images/148.png" alt="steps for hacking" width="600">
 </center>
+
 - **Workflow**:
   - Select a filter (e.g., cameras in a country).
   - Copy the generated filter/query.
@@ -24,8 +25,7 @@
 
 
 
-###  //Censys Login Process//
----
+###  Censys Login Process
 ### Step 1: Open Browser
 - Open Firefox (or any browser)
 
@@ -72,6 +72,7 @@
 <center>
   <img src="images/153.png" alt="steps for hacking" width="600">
 </center>
+
 - **Basic Steps**:
   - Clone the repository.
   - Navigate to the Infoga directory.
@@ -86,12 +87,14 @@
 <center>
   <img src="images/154.png" alt="steps for hacking" width="600">
 </center>
+
 ### Step 2: Clone Infoga from GitHub
 - command: git clone https://github.com/m4ll0k/Infoga.git
 
 <center>
   <img src="images/155.png" alt="steps for hacking" width="600">
 </center>
+
 ### Step 3: Enter Infoga directory
 - command: cd Infoga
 <center>
@@ -123,6 +126,7 @@
   <center>
   <img src="images/161.png" alt="steps for hacking" width="600">
 </center>
+
 - `inurl:` – Searches keywords in URLs  
   - Example: `inurl:login`
 - `filetype:` – Searches for specific file types  
@@ -145,6 +149,7 @@
 <center>
   <img src="images/159.png" alt="steps for hacking" width="600">
 </center>
+
 - **Steps**:
   - Copy the website URL.
   - Paste it into archive.org.
@@ -176,9 +181,11 @@
 <center>
   <img src="images/166.png" alt="steps for hacking" width="600">
 </center>
+
 <center>
   <img src="images/167.png" alt="steps for hacking" width="600">
 </center>
+
 # Sublist3r Setup on Parrot OS 
 
  ### Step 1: Open Firefox, search for Sublist3r GitHub, and copy the repository link
@@ -201,6 +208,7 @@
 <center>
   <img src="images/169.png" alt="steps for hacking" width="600">
 </center>
+
 <center>
   <img src="images/179.png" alt="steps for hacking" width="600">
 </center>
@@ -229,12 +237,14 @@
 <center>
   <img src="images/171.png" alt="steps for hacking" width="600">
 </center>
+
 - Gathers public information about individuals.
 - Mostly paid.
 - Primarily works for U.S. citizens.
 <center>
   <img src="images/172.png" alt="steps for hacking" width="600">
 </center>
+
 <center>
   <img src="images/173.png" alt="steps for hacking" width="600">
 </center>
@@ -253,6 +263,7 @@
 <center>
   <img src="images/174.png" alt="steps for hacking" width="600">
 </center>
+
 - Example use cases:
   - Mathematical calculations.
   - Finding public IP address.
@@ -260,6 +271,7 @@
  <center>
   <img src="images/175.png" alt="steps for hacking" width="600">
 </center>
+
 pt is a command-line tool that lets you use ChatGPT directly from the Linux terminal (Parrot OS, Kali Linux, Ubuntu, etc.).
 
 When you run:
